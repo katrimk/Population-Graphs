@@ -1,0 +1,23 @@
+body {
+    background-color: ivory;
+}
+
+.content {
+    text-align: center;
+}
+
+.container {
+    width: 75vw;
+}
+
+footer {
+    background-color: paleturquoise;
+    color: midnightblue;
+    font-size: smaller;
+    margin-left: 25px;
+    margin-right: 75px;
+}
+
+button {
+    background-color: lavender;
+}
